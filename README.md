@@ -30,7 +30,7 @@ Captura de pantalla de Armas:
 ![Captura De Armas](/Multimedia/capturamarkdown3.png)
 
 Captura de pantalla de Mapas:
-![Captura De Mapas](/Multimedia/capturamarkdown4.png)
+![Captura De Mapas](capturamarkdown4.png)
 
 
 ### División de Tareas
