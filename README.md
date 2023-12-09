@@ -21,7 +21,7 @@ El trabajo está estructurado en una agrupación de archivos HTML y CSS y una ca
 ### Capturas de Pantalla
 
 Captura de pantalla del Inicio:
-![Captura De Inicio](/Multimedia/capturamarkdown1.png)
+![Captura De Inicio](https://github.com/EnriqueFerrerRigo/Pagina-Valorant/blob/main/PaginaValorant/Multimedia/capturamarkdown1.png?raw=true)
 
 Captura de pantalla de Agentes:
 ![Captura De Agentes](/Multimedia/capturamarkdown2.png)
