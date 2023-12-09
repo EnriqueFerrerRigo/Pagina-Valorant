@@ -24,13 +24,13 @@ Captura de pantalla del Inicio:
 ![Captura De Inicio](https://github.com/EnriqueFerrerRigo/Pagina-Valorant/blob/main/PaginaValorant/Multimedia/capturamarkdown1.png?raw=true)
 
 Captura de pantalla de Agentes:
-![Captura De Agentes](/Multimedia/capturamarkdown2.png)
+![Captura De Agentes](https://github.com/EnriqueFerrerRigo/Pagina-Valorant/blob/main/PaginaValorant/Multimedia/capturamarkdown4.png?raw=true)
 
 Captura de pantalla de Armas:
-![Captura De Armas]([/Multimedia/capturamarkdown3.png](https://github.com/EnriqueFerrerRigo/Pagina-Valorant/blob/main/PaginaValorant/Multimedia/capturamarkdown3.png))
+![Captura De Armas](https://github.com/EnriqueFerrerRigo/Pagina-Valorant/blob/main/PaginaValorant/Multimedia/capturamarkdown3.png?raw=true)
 
 Captura de pantalla de Mapas:
-![Captura De Mapas](capturamarkdown4.png)
+![Captura De Mapas](https://github.com/EnriqueFerrerRigo/Pagina-Valorant/blob/main/PaginaValorant/Multimedia/capturamarkdown4.png?raw=true)
 
 
 ### División de Tareas
