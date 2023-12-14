@@ -8,9 +8,8 @@ El trabajo está estructurado en una agrupación de archivos HTML y CSS y una ca
 
 ### Tecnologías utilizadas
 
-- HTML (PaginaValorant.html, Agentes.html, Armas.html, Mapas.html)
+Hemos usado para este trabajo el editor de código llamado Visual Studio Code, el cual es muy flexible y fácil de utilizar. Además nos hemos ayudado de la inteligencia artificial ''ChatGPT'' para completar al completo la información de algunas partes de nuestra página.
 
-- CSS (estils.css)
 
 ### Características y Funcionalidades Principales
 
